@@ -1,2 +1,2 @@
-# MiPrimerRepositorio
-Repositorio para la sesión 24 de proyecto intermodular
+# Mi Primer Repositorio
+Este repositorio ha sido creado para practicar con **GitHub**
